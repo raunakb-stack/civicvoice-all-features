@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "complaints": "शिकायतें",
+    "map": "लाइव मानचित्र",
+    "report": "समस्या रिपोर्ट करें",
+    "dept": "विभाग डैशबोर्ड",
+    "admin": "एडमिन पैनल"
+  },
+  "dashboard": {
+    "welcome": "स्वागत है",
+    "liveStats": "शहर की लाइव सांख्यिकी",
+    "recentIssues": "हाल की समस्याएं",
+    "viewAll": "सभी देखें →",
+    "reportFirst": "पहली समस्या रिपोर्ट करें",
+    "noComplaints": "अभी तक कोई शिकायत नहीं।"
+  },
+  "complaint": {
+    "title": "समस्या का शीर्षक",
+    "description": "विवरण",
+    "department": "विभाग",
+    "location": "स्थान",
+    "emergency": "आपातकालीन चिह्नित करें",
+    "emergencyHint": "+20 प्राथमिकता अंक — केवल तत्काल सुरक्षा खतरों के लिए",
+    "tags": "टैग",
+    "photoEvidence": "फोटो सबूत",
+    "fileComplaint": "शिकायत दर्ज करें",
+    "pending": "लंबित",
+    "inProgress": "प्रगति में",
+    "resolved": "हल हो गया",
+    "overdue": "अतिदेय",
+    "escalated": "उन्नत"
+  },
+  "stats": {
+    "issuestoday": "आज की समस्याएं",
+    "resolvedToday": "आज हल हुई",
+    "avgResolution": "औसत समाधान (घंटे)",
+    "activeUsers": "सक्रिय उपयोगकर्ता",
+    "total": "कुल शिकायतें",
+    "overdue": "अतिदेय",
+    "escalated": "उन्नत",
+    "resolutionRate": "समाधान दर"
+  },
+  "auth": {
+    "signIn": "साइन इन करें",
+    "register": "रजिस्टर करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "name": "पूरा नाम",
+    "role": "भूमिका",
+    "city": "शहर",
+    "signOut": "साइन आउट",
+    "noAccount": "खाता नहीं है?",
+    "haveAccount": "खाता है?"
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "markAll": "सभी पढ़े हुए चिह्नित करें",
+    "empty": "अभी तक कोई सूचना नहीं",
+    "new": "नया"
+  },
+  "ai": {
+    "autoFill": "AI ऑटो-फिल",
+    "analyzing": "AI विश्लेषण कर रहा है...",
+    "hint": "AI आपके विवरण से विभाग और गंभीरता का पता लगाएगा"
+  }
+}

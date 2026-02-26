@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "complaints": "Complaints",
+    "map": "Live Map",
+    "report": "Report Issue",
+    "dept": "Dept. Dashboard",
+    "admin": "Admin Panel"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "liveStats": "Live City Statistics",
+    "recentIssues": "Recent Issues",
+    "viewAll": "View All →",
+    "reportFirst": "Report First Issue",
+    "noComplaints": "No complaints yet."
+  },
+  "complaint": {
+    "title": "Issue Title",
+    "description": "Description",
+    "department": "Department",
+    "location": "Location",
+    "emergency": "Mark as Emergency",
+    "emergencyHint": "+20 priority score — use for immediate safety hazards only",
+    "tags": "Tags",
+    "photoEvidence": "Photo Evidence",
+    "fileComplaint": "File Complaint",
+    "pending": "Pending",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "overdue": "Overdue",
+    "escalated": "Escalated"
+  },
+  "stats": {
+    "issuestoday": "Issues Today",
+    "resolvedToday": "Resolved Today",
+    "avgResolution": "Avg Resolution (h)",
+    "activeUsers": "Active Users",
+    "total": "Total Complaints",
+    "overdue": "Overdue",
+    "escalated": "Escalated",
+    "resolutionRate": "Resolution Rate"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "Role",
+    "city": "City",
+    "signOut": "Sign Out",
+    "noAccount": "No account?",
+    "haveAccount": "Have an account?"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAll": "Mark all read",
+    "empty": "No notifications yet",
+    "new": "New"
+  },
+  "ai": {
+    "autoFill": "AI Auto-Fill",
+    "analyzing": "AI Analyzing...",
+    "hint": "Let AI detect department & severity from your description"
+  }
+}

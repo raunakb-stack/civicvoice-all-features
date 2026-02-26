@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "complaints": "तक्रारी",
+    "map": "थेट नकाशा",
+    "report": "समस्या नोंदवा",
+    "dept": "विभाग डॅशबोर्ड",
+    "admin": "प्रशासन पॅनेल"
+  },
+  "dashboard": {
+    "welcome": "स्वागत आहे",
+    "liveStats": "शहर थेट आकडेवारी",
+    "recentIssues": "अलीकडील समस्या",
+    "viewAll": "सर्व पहा →",
+    "reportFirst": "पहिली समस्या नोंदवा",
+    "noComplaints": "अद्याप कोणत्याही तक्रारी नाहीत."
+  },
+  "complaint": {
+    "title": "समस्येचे शीर्षक",
+    "description": "तपशील",
+    "department": "विभाग",
+    "location": "ठिकाण",
+    "emergency": "आणीबाणी म्हणून चिन्हांकित करा",
+    "emergencyHint": "+20 प्राधान्य गुण — केवळ तात्काळ सुरक्षा धोक्यांसाठी",
+    "tags": "टॅग",
+    "photoEvidence": "फोटो पुरावा",
+    "fileComplaint": "तक्रार दाखल करा",
+    "pending": "प्रलंबित",
+    "inProgress": "प्रगतीपथावर",
+    "resolved": "निराकरण झाले",
+    "overdue": "मुदत उलटली",
+    "escalated": "वरिष्ठांकडे पाठवले"
+  },
+  "stats": {
+    "issuestoday": "आजच्या समस्या",
+    "resolvedToday": "आज सोडवलेल्या",
+    "avgResolution": "सरासरी निराकरण (तास)",
+    "activeUsers": "सक्रिय वापरकर्ते",
+    "total": "एकूण तक्रारी",
+    "overdue": "मुदत उलटलेल्या",
+    "escalated": "वरिष्ठांकडे",
+    "resolutionRate": "निराकरण दर"
+  },
+  "auth": {
+    "signIn": "साइन इन करा",
+    "register": "नोंदणी करा",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "name": "पूर्ण नाव",
+    "role": "भूमिका",
+    "city": "शहर",
+    "signOut": "साइन आउट",
+    "noAccount": "खाते नाही?",
+    "haveAccount": "खाते आहे?"
+  },
+  "notifications": {
+    "title": "सूचना",
+    "markAll": "सर्व वाचले म्हणून चिन्हांकित करा",
+    "empty": "अद्याप कोणत्याही सूचना नाहीत",
+    "new": "नवीन"
+  },
+  "ai": {
+    "autoFill": "AI ऑटो-फिल",
+    "analyzing": "AI विश्लेषण करत आहे...",
+    "hint": "AI आपल्या वर्णनातून विभाग व तीव्रता शोधेल"
+  }
+}
